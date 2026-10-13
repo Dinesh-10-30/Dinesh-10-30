@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I'm currently working on marketing strategy, consumer research, and digital growth projects<br>🤝 I'm looking to collaborate on brand strategy, digital campaigns, and market research<br>💼 I'm looking for opportunities in Digital Marketing, Brand Management, Product Marketing, and Growth<br>🌱 I'm currently learning performance marketing, marketing analytics, and customer acquisition<br>💬 Ask me about consumer insights, competitive analysis, content strategy, and market research<br>⚡ Fun fact: I turn market research into actionable business and marketing ideas
+Hey, I'm Dinesh Kumar 👋
+
+Marketing Strategy | Consumer Insights | Digital Growth | Marketing Analytics
+
+I'm a PGDM Marketing student at Fortune Institute of International Business (FIIB), interested in understanding consumers, identifying market opportunities, and turning research into actionable business strategies.
+
+My experience spans sales and commercial research at Tata Steel, competitor benchmarking, market assessment, and social media content design. I use this space to document practical projects that connect marketing concepts with real business problems.
+
+🎯 What I Work On
+
+Market Intelligence: Market assessment, competitor benchmarking, and opportunity identification.
+
+Consumer Insights: Customer segmentation, purchasing behaviour, and RFM analysis.
+
+Digital Marketing: Brand audits, content strategy, and customer acquisition.
+
+Marketing Analytics: Dashboard development, KPI tracking, and data-driven recommendations.
+
+Brand Strategy: Positioning, competitive differentiation, and growth opportunities.
+
 
 
 ## 🌐 Socials:
